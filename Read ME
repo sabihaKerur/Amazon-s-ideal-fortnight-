@@ -1,4 +1,7 @@
-Amazon's
+                ## Amazon's Sales Data 
+
+The Data is Downloded from Kaggle.
+Link : https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
 
 I downloaded an Excel file containing almost 25k rows of data from Amazon's sales data set. I started by cleansing the data in Excel and using Power Bi to do out the ETL job. 
 On Amazon, there are 17 columns for sales products, and among them are those for product id, user name user id, true price, and discount reward. The dashboard's creation then began. 
