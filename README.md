@@ -16,3 +16,7 @@ review_title - Short review
 review_content - Long review
 img_link - Image Link of the Product
 product_link - Official Website Link of the Product
+
+
+# Screenshot
+![image](https://github.com/sabihaKerur/Amazon-s-ideal-fortnight-/assets/104004284/23222056-e734-4c3c-9f10-7d852e91995a)
