@@ -1,0 +1,9 @@
+Amazon's
+
+I downloaded an Excel file containing almost 25k rows of data from Amazon's sales data set. I started by cleansing the data in Excel and using Power Bi to do out the ETL job. 
+On Amazon, there are 17 columns for sales products, and among them are those for product id, user name user id, true price, and discount reward. The dashboard's creation then began. 
+I built a dashboard using KPIs like the average discount price and the total number of ratings multiplied by ratings. And the dashboard shows the specific product's name, description, 
+rating, place in the list of products, and visualization of the difference between the product's regular price and any discounts offered. The user ID of the person who made the purchase is also shown on the dashboard.
+      On Amazon, there are 17 columns for sales products, and among them are those for product id, user name user id, true price, and discount reward. The dashboard's creation then began.
+I built a dashboard using KPIs like the average discount price and the total number of ratings multiplied by ratings. And the dashboard shows the specific product's name, description, rating, 
+place in the list of products, and visualization of the difference between the product's regular price and any discounts offered. The user ID of the person who made the purchase is also shown on the dashboard.
